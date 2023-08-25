@@ -15,6 +15,13 @@ Connect with me:
   </a>
 </div>
 
-Things I code with
+Things I code with:
+
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
+  </a>
+</div>
+
 html5 CSS3 Badge Javascript Badge React Badge Next.js Badge Redux Badge SASS Badge Bootstrap Badge Git Badge Nodejs Badge Express.js Badge MongoDB Badge
 
