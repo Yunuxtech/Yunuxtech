@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Yunus Isah, a Front-end Web Developer. My professional background has equipped me with the requisite experience and technical proficiencies to effectively assist a company and its IT team in devising and implementing durable software solutions across various web-based platforms.
+👋 Greetings! I'm Yunus Isah, a passionate Front-end Web Developer. My journey has armed me with the essential experience and technical skills 🛠️ to adeptly collaborate with a company and its skilled IT team, bringing forth robust and sustainable software solutions across a diverse range of web-based platforms. 🚀
 
-♥ I enjoy doing research, reading laugh and coding.
+When I'm not busy crafting code, you'll find me immersed in research 🕵️‍♂️, indulging in a good read 📚, and sharing hearty laughs 😄. These passions fuel my creativity and enrich my dedication to the world of web development. Let's create amazing digital experiences together! 🌐💼
+
 
 
 Connect with me:
